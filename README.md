@@ -1,3 +1,3 @@
 # Netflix
 
-https://fagner87.github.io/netflix.html
+https://fagner87.Projeto_netflix/netflix.html
